@@ -1360,9 +1360,9 @@
       br[INTL.T_OPTIONS_SNIPE] = "Opções de snipe";
       br[INTL.T_INCOMING_SUPPORT_BUFF] =
         "Apoio recebido enquanto isso estiver ativo vai viajar {{perc}}% mais rÃ¡pido";
-      br[INTL.T_TODAY_AT] = "Hoje Ã s {{time}}";
-      br[INTL.T_TOMORROW_AT] = "AmanhÃ£ Ã s {{time}}";
-      br[INTL.T_ON_AT] = "Em {{date}} Ã s {{time}}";
+      br[INTL.T_TODAY_AT] = "Hoje às {{time}}";
+      br[INTL.T_TOMORROW_AT] = "Amanhã às {{time}}";
+      br[INTL.T_ON_AT] = "Em {{date}} às {{time}}";
 
       br[INTL.T_SNIPE] = "Snips";
       br[INTL.T_MINIMUM_SNIPE_DEF] = "Snipe Def. Mínimo";
