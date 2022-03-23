@@ -1368,29 +1368,33 @@
       br[INTL.T_MINIMUM_SNIPE_DEF] = "Snipe Def. Mínimo";
       br[INTL.T_USE_OFFENSIVE_SNIPES] = "Snipes Ofensivo";
       br[INTL.T_DISPLAY] = "Mostrar";
+      br[INTL.T_MAX_LAUNCH_TIME] = "Hora máxima até o lançamento";
       br[INTL.T_NUM_SNIPES_MADE] = "{{count}} snips gerados";
+      br[INTL.T_ANTI_INFANTRY] = "anti-infantaria";
+      br[INTL.T_ANTI_CAVALRY] = "anti-cavalaria";
+      br[INTL.T_ANTI_ARCHER] = "anti-arqueiro";
       br[INTL.T_REFRESH_1] =
-        "Este script nÃ£o serÃ¡ atualizado quando vocÃª marcar/desmascar as entradas abaixo.";
+        "Este script não será atualizado quando você marcar/desmascar as entradas abaixo.";
       br[INTL.T_REFRESH_2] =
-        "Rode o script novamente para atualizar com aquelas mudanÃ§as.";
+        "Rode o script novamente para atualizar com aquelas mudanças.";
 
       br[INTL.M_TROOP_COMMON_NAMES] = [
         "Lanceiro",
         "Espadachim",
-        "BÃ¡rbaro",
+        "Bárbaro",
         "Arqueiro",
         "Explorador",
         "Cavalaria Leve",
-        "Arqueiro Ã  cavalo",
+        "Arqueiro à cavalo",
         "Cavalaria Pesada",
-        "ArÃ­ete",
+        "Aríete",
         "Catapulta",
         "Paladino",
         "Nobre",
       ];
 
       br[INTL.M_TROOP_SHORTHAND_NAMES] = [
-        "lanÃ§a",
+        "lança",
         "esp",
         "bb",
         "arc",
@@ -1398,7 +1402,7 @@
         "cl",
         "arc cav",
         "cp",
-        "arÃ­ete",
+        "aríete",
         "cata",
         "pala",
         "nobre",
@@ -1409,7 +1413,6 @@
 
     function translate(messageCode, args) {
       // Detect 'RAW' requests for translation debugging
-      return;
       if (args && args == "RAW") {
         return translations.en[messageCode];
       }
