@@ -1352,9 +1352,9 @@
       br[INTL.T_TARGET_VILLA] = "Aldeia alvo";
       br[INTL.T_SOURCE] = "Fonte";
       br[INTL.T_SOURCE_VILLA] = "Aldeia fonte";
-      br[INTL.T_TROOP_REQ] = "Tropa necessÃ¡ria";
+      br[INTL.T_TROOP_REQ] = "Tropa necessária";
       br[INTL.T_TROOPS] = "Tropas";
-      br[INTL.T_USE_TROOP_ICONS] = "Usar Ã­cones de tropas";
+      br[INTL.T_USE_TROOP_ICONS] = "Usar ícones de tropas";
 
       br[INTL.T_OPTIONS] = "Opções";
       br[INTL.T_OPTIONS_SNIPE] = "Opções de snipe";
