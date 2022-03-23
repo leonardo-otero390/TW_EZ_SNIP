@@ -1344,7 +1344,7 @@
         "Fazendo snips e procurando por sigilos...";
       br[INTL.T_NO_INCS_SELECTED] = "Nenhum ataque foi selecionado para snip!";
       br[INTL.T_RUN_ON_INCOMINGS] =
-        "Este script precisa ser executado na pÃ¡gina Chegando, vou trazer Ã  vocÃª agora";
+        "Este script precisa ser executado na página Chegando, vou trazer à você agora";
       br[INTL.T_SNIPE_TIME_RANGE] = "Snips entre {{currentTime}} e {{endTime}}";
       br[INTL.T_SNIPES_FROM_SRC] = "Snips a partir de {{source}}";
       br[INTL.T_SNIPES_TO_DST] = "Snips para {{target}}";
