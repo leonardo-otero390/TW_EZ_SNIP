@@ -1150,6 +1150,8 @@
             br[INTL.T_ON_AT] = 'Em {{date}} Ã s {{time}}';
 
             br[INTL.T_SNIPE] = 'Snips';
+            br[INTL.T_MINIMUM_SNIPE_DEF] = 'Snipe Def. Mínimo';
+            br[INTL.T_USE_OFFENSIVE_SNIPES] = 'Snipes Ofensivo';
             br[INTL.T_DISPLAY] = 'Mostrar';
             br[INTL.T_NUM_SNIPES_MADE] = '{{count}} snips gerados';
             br[INTL.T_REFRESH_1] = 'Este script nÃ£o serÃ¡ atualizado quando vocÃª marcar/desmascar as entradas abaixo.';
